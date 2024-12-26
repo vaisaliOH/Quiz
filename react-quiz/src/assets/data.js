@@ -1,0 +1,42 @@
+export const data =[
+    {
+        question: "What is React primarily used for?",
+        option1:"Backend development",
+        option2:"Game development",
+        option3:"Building user interfaces",
+        option4:"Database management",
+        ans:3,
+    },
+    {
+        question: "What is JSX?",
+        option1:"A type of CSS file",
+        option2:"A syntax extension for JavaScript",
+        option3:"A JavaScript library",
+        option4:"A database query language",
+        ans:2,
+    },
+    {
+        question: "What is the primary purpose of a React component?",
+        option1:"To handle backend logic",
+        option2:"To handle user input",
+        option3:"To render UI components",
+        option4:"To manage state",
+        ans:3,
+    },
+    {
+        question: "How do you pass data to a child component?",
+        option1:"Using props",
+        option2:"Using state",
+        option3:"Using setState()",
+        option4:"Using context",
+        ans:1,
+    },
+    {
+        question: "What is the purpose of useEffect in React functional components?",
+        option1:"To handle user input",
+        option2:"To handle backend logic",
+        option3:"To fetch data from an API",
+        option4:"To run a function after every render",
+        ans:4,
+    },
+];
